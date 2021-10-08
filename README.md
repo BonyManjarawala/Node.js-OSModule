@@ -2,12 +2,12 @@
 
 Get the following information about the computer's operating system:
 
-OS CPU architecture
+*OS CPU architecture
 
-Free memory of the system
+*Free memory of the system
 
-Total memory of the system
+*Total memory of the system
 
-OS Platform
+*OS Platform
 
-Information about the current user
+*Information about the current user
